@@ -1,0 +1,8 @@
+* {
+    font-family: FreeMono, monospace; 
+    margin-left: 0.5rem;
+}
+
+p {
+    max-width: 40rem;
+}
