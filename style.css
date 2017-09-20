@@ -3,6 +3,14 @@
     margin-left: 0.5rem;
 }
 
+h1 {
+    font-size: x-large;
+}
+
+h2 {
+    font-size: large;
+}
+
 p {
     max-width: 40rem;
 }
